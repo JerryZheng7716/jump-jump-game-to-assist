@@ -1,0 +1,10 @@
+C:\Users\JerryZheng\source\repos\挑一挑外挂\挑一挑外挂\bin\Debug\挑一挑外挂.exe.config
+C:\Users\JerryZheng\source\repos\挑一挑外挂\挑一挑外挂\bin\Debug\挑一挑外挂.exe
+C:\Users\JerryZheng\source\repos\挑一挑外挂\挑一挑外挂\bin\Debug\挑一挑外挂.pdb
+C:\Users\JerryZheng\source\repos\挑一挑外挂\挑一挑外挂\obj\Debug\跳一跳外挂.csprojResolveAssemblyReference.cache
+C:\Users\JerryZheng\source\repos\挑一挑外挂\挑一挑外挂\obj\Debug\挑一挑外挂.Form1.resources
+C:\Users\JerryZheng\source\repos\挑一挑外挂\挑一挑外挂\obj\Debug\挑一挑外挂.Properties.Resources.resources
+C:\Users\JerryZheng\source\repos\挑一挑外挂\挑一挑外挂\obj\Debug\跳一跳外挂.csproj.GenerateResource.Cache
+C:\Users\JerryZheng\source\repos\挑一挑外挂\挑一挑外挂\obj\Debug\跳一跳外挂.csproj.CoreCompileInputs.cache
+C:\Users\JerryZheng\source\repos\挑一挑外挂\挑一挑外挂\obj\Debug\挑一挑外挂.exe
+C:\Users\JerryZheng\source\repos\挑一挑外挂\挑一挑外挂\obj\Debug\挑一挑外挂.pdb
